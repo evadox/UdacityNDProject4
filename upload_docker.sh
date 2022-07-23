@@ -5,13 +5,13 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=todak2000/cloudprojectfour
+dockerpath=evadox/cloudproject4
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker login -u todak2000
-docker tag cloudprojectfour $dockerpath
+docker login -u evadox
+docker tag cloudproject4 $dockerpath
 
 # Step 3:
 # Push image to a docker repository
