@@ -1,4 +1,7 @@
-<include a CircleCI status badge, here>
+
+### Circleci
+[![CircleCI](https://circleci.com/gh/evadox/UdacityNDProject4/tree/main.svg?style=svg)](https://circleci.com/gh/evadox/UdacityNDProject4/tree/main)
+
 
 ## Project Overview
 
