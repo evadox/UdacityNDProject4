@@ -10,4 +10,4 @@ docker build --tag=cloudproject4 .
 docker image ls
 # Step 3: 
 # Run flask app
-docker run -d -p 8000:80 cloudproject4
+docker run -p 8000:80 cloudproject4
